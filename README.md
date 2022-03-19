@@ -28,7 +28,7 @@ I’m looking to collaborate on every project thats need help with my current te
 **Databases**
 
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/mongodb.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/mongodb.png"></code>
 
 **Tools**
 
