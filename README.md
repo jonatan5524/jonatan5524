@@ -38,6 +38,12 @@ I’m looking to collaborate on every project thats need help with my current te
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#217](https://github.com/muke1908/chat-e2ee/issues/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+2. 💪 Opened PR [#217](https://github.com/muke1908/chat-e2ee/pull/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+3. 🗣 Commented on [#202](https://github.com/muke1908/chat-e2ee/issues/202) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+4. 🗣 Commented on [#202](https://github.com/muke1908/chat-e2ee/issues/202) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+5. 💪 Opened PR [#213](https://github.com/muke1908/chat-e2ee/pull/213) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+<!--END_SECTION:activity-->
 
 ## Some Info:
 
