@@ -1,4 +1,5 @@
-### 👋 Hi there I'm Yehonatan <a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 👋 Hi there I'm Yehonatan  
+<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 I am a full stack developer, perefer  backend over frontend.  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  is Love  
 Like to build things from scratch to learn how they work.  
