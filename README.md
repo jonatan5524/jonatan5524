@@ -39,11 +39,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#853](https://github.com/dailydotdev/apps/issues/853) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-2. 🎉 Merged PR [#1](https://github.com/jonatan5524/jonatan5524/pull/1) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
-3. 🗣 Commented on [#217](https://github.com/muke1908/chat-e2ee/issues/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
-4. 💪 Opened PR [#217](https://github.com/muke1908/chat-e2ee/pull/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
-5. 🗣 Commented on [#202](https://github.com/muke1908/chat-e2ee/issues/202) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+1. 🎉 Merged PR [#2](https://github.com/jonatan5524/jonatan5524/pull/2) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+2. 🗣 Commented on [#853](https://github.com/dailydotdev/apps/issues/853) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+3. 🎉 Merged PR [#1](https://github.com/jonatan5524/jonatan5524/pull/1) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+4. 🗣 Commented on [#217](https://github.com/muke1908/chat-e2ee/issues/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
+5. 💪 Opened PR [#217](https://github.com/muke1908/chat-e2ee/pull/217) in [muke1908/chat-e2ee](https://github.com/muke1908/chat-e2ee)
 <!--END_SECTION:activity-->
 
 ## Some Info:
