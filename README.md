@@ -39,11 +39,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#945](https://github.com/dailydotdev/apps/pull/945) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-2. 💪 Opened PR [#946](https://github.com/dailydotdev/apps/pull/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-3. 💪 Opened PR [#945](https://github.com/dailydotdev/apps/pull/945) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-4. 🗣 Commented on [#853](https://github.com/dailydotdev/apps/issues/853) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-5. 🎉 Merged PR [#3](https://github.com/jonatan5524/jonatan5524/pull/3) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+1. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+2. ❌ Closed PR [#945](https://github.com/dailydotdev/apps/pull/945) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+3. 💪 Opened PR [#946](https://github.com/dailydotdev/apps/pull/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+4. 💪 Opened PR [#945](https://github.com/dailydotdev/apps/pull/945) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+5. 🗣 Commented on [#853](https://github.com/dailydotdev/apps/issues/853) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 <!--END_SECTION:activity-->
 
 ## Some Info:
