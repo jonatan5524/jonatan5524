@@ -40,9 +40,9 @@ I’m looking to collaborate on every project thats need help with my current te
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-2. 🗣 Commented on [#2059](https://github.com/amplication/amplication/issues/2059) in [amplication/amplication](https://github.com/amplication/amplication)
-3. 🗣 Commented on [#297](https://github.com/dailydotdev/daily/issues/297) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-4. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+2. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+3. 🗣 Commented on [#2059](https://github.com/amplication/amplication/issues/2059) in [amplication/amplication](https://github.com/amplication/amplication)
+4. 🗣 Commented on [#297](https://github.com/dailydotdev/daily/issues/297) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
 5. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 <!--END_SECTION:activity-->
 
