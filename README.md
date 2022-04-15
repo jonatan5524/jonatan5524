@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Yehonatan
-I am a full stack developer, perefer  backend over frontend.  
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  is Love  
-Like to build things from scratch to learn how they work.  
+
+I am a full stack developer, perefer backend over frontend.  
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) is Love  
+Like to build things from scratch to learn how they work.
 
 I'm currently learning to work on open source.
 I’m looking to collaborate on every project thats need help with my current tech stack.
@@ -14,6 +15,7 @@ I’m looking to collaborate on every project thats need help with my current te
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/spring.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/python.png"></code>
 
 **Front-end**
 
