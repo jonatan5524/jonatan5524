@@ -1,5 +1,6 @@
-### Hi there 👋 I am Yehonatan
+### 👋 Hi there I'm Yehonatan
 
+<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 I am a full stack developer, perefer backend over frontend.  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) is Love  
 Like to build things from scratch to learn how they work.
@@ -19,23 +20,38 @@ I’m looking to collaborate on every project thats need help with my current te
 
 **Front-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/ts.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/reactjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/vuejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/css3.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ts.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/reactjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vuejs.png"></code>
 
 **Databases**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/mongodb.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/mongodb.png"></code>
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/vscode.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/vim.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vim.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/bash.png"></code>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+1. 🗣 Commented on [#635](https://github.com/dailydotdev/apps/issues/635) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+2. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+3. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+4. 🗣 Commented on [#2059](https://github.com/amplication/amplication/issues/2059) in [amplication/amplication](https://github.com/amplication/amplication)
+5. 🗣 Commented on [#297](https://github.com/dailydotdev/daily/issues/297) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+<!--END_SECTION:activity-->
+
+## Some Info:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatan5524" />
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jonatan5524/jonatan5524/blob/main/devcard.svg" width="400" alt="Jonatan Ezron's Dev Card"/></a>
