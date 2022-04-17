@@ -43,11 +43,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#635](https://github.com/dailydotdev/apps/issues/635) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-2. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-3. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-4. 🗣 Commented on [#2059](https://github.com/amplication/amplication/issues/2059) in [amplication/amplication](https://github.com/amplication/amplication)
-5. 🗣 Commented on [#297](https://github.com/dailydotdev/daily/issues/297) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. 🗣 Commented on [#5967](https://github.com/gogs/gogs/issues/5967) in [gogs/gogs](https://github.com/gogs/gogs)
+2. 🗣 Commented on [#6909](https://github.com/gogs/gogs/issues/6909) in [gogs/gogs](https://github.com/gogs/gogs)
+3. ❗️ Opened issue [#6909](https://github.com/gogs/gogs/issues/6909) in [gogs/gogs](https://github.com/gogs/gogs)
+4. 🗣 Commented on [#635](https://github.com/dailydotdev/apps/issues/635) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+5. 🗣 Commented on [#946](https://github.com/dailydotdev/apps/issues/946) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 <!--END_SECTION:activity-->
 
 ## Some Info:
