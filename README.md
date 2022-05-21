@@ -43,11 +43,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#119](https://github.com/miniscruff/changie/issues/119) in [miniscruff/changie](https://github.com/miniscruff/changie)
-2. ❗️ Opened issue [#1](https://github.com/jonatan5524/gamda/issues/1) in [jonatan5524/gamda](https://github.com/jonatan5524/gamda)
-3. 🗣 Commented on [#5967](https://github.com/gogs/gogs/issues/5967) in [gogs/gogs](https://github.com/gogs/gogs)
-4. 🗣 Commented on [#6909](https://github.com/gogs/gogs/issues/6909) in [gogs/gogs](https://github.com/gogs/gogs)
-5. ❗️ Opened issue [#6909](https://github.com/gogs/gogs/issues/6909) in [gogs/gogs](https://github.com/gogs/gogs)
+1. 🗣 Commented on [#238](https://github.com/miniscruff/changie/issues/238) in [miniscruff/changie](https://github.com/miniscruff/changie)
+2. 🗣 Commented on [#119](https://github.com/miniscruff/changie/issues/119) in [miniscruff/changie](https://github.com/miniscruff/changie)
+3. 🗣 Commented on [#119](https://github.com/miniscruff/changie/issues/119) in [miniscruff/changie](https://github.com/miniscruff/changie)
+4. ❗️ Opened issue [#1](https://github.com/jonatan5524/gamda/issues/1) in [jonatan5524/gamda](https://github.com/jonatan5524/gamda)
+5. 🗣 Commented on [#5967](https://github.com/gogs/gogs/issues/5967) in [gogs/gogs](https://github.com/gogs/gogs)
 <!--END_SECTION:activity-->
 
 ## Some Info:
