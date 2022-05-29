@@ -45,9 +45,9 @@ I’m looking to collaborate on every project thats need help with my current te
 
 1. 🗣 Commented on [#320](https://github.com/miniscruff/changie/issues/320) in [miniscruff/changie](https://github.com/miniscruff/changie)
 2. 🗣 Commented on [#320](https://github.com/miniscruff/changie/issues/320) in [miniscruff/changie](https://github.com/miniscruff/changie)
-3. 💪 Opened PR [#19830](https://github.com/go-gitea/gitea/pull/19830) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-4. 💪 Opened PR [#19829](https://github.com/go-gitea/gitea/pull/19829) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. 🗣 Commented on [#320](https://github.com/miniscruff/changie/issues/320) in [miniscruff/changie](https://github.com/miniscruff/changie)
+3. 🗣 Commented on [#320](https://github.com/miniscruff/changie/issues/320) in [miniscruff/changie](https://github.com/miniscruff/changie)
+4. 💪 Opened PR [#19830](https://github.com/go-gitea/gitea/pull/19830) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+5. 💪 Opened PR [#19829](https://github.com/go-gitea/gitea/pull/19829) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
 
 ## Some Info:
