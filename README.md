@@ -44,10 +44,10 @@ I’m looking to collaborate on every project thats need help with my current te
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
-2. 💪 Opened PR [#7010](https://github.com/gogs/gogs/pull/7010) in [gogs/gogs](https://github.com/gogs/gogs)
-3. 💪 Opened PR [#996](https://github.com/dailydotdev/apps/pull/996) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-4. ❌ Closed PR [#995](https://github.com/dailydotdev/apps/pull/995) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-5. 💪 Opened PR [#995](https://github.com/dailydotdev/apps/pull/995) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+2. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
+3. 💪 Opened PR [#7010](https://github.com/gogs/gogs/pull/7010) in [gogs/gogs](https://github.com/gogs/gogs)
+4. 💪 Opened PR [#996](https://github.com/dailydotdev/apps/pull/996) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+5. ❌ Closed PR [#995](https://github.com/dailydotdev/apps/pull/995) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 <!--END_SECTION:activity-->
 
 ## Some Info:
