@@ -46,8 +46,8 @@ I’m looking to collaborate on every project thats need help with my current te
 1. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
 2. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
 3. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
-4. 💪 Opened PR [#7010](https://github.com/gogs/gogs/pull/7010) in [gogs/gogs](https://github.com/gogs/gogs)
-5. 💪 Opened PR [#996](https://github.com/dailydotdev/apps/pull/996) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+4. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
+5. 💪 Opened PR [#7010](https://github.com/gogs/gogs/pull/7010) in [gogs/gogs](https://github.com/gogs/gogs)
 <!--END_SECTION:activity-->
 
 ## Some Info:
