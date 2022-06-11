@@ -43,7 +43,7 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
+1. 💪 Opened PR [#79](https://github.com/gogs/git-module/pull/79) in [gogs/git-module](https://github.com/gogs/git-module)
 2. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
 3. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
 4. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
