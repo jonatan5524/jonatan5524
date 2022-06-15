@@ -12,33 +12,33 @@ I’m looking to collaborate on every project thats need help with my current te
 
 **Back-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/spring.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/dotnet.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/go.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/dotnet.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/master/images/python.png"></code>
 
 **Front-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ts.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/reactjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vuejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/css3.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/js.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ts.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/reactjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vuejs.png"></code>
 
 **Databases**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/mongodb.png"></code>
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vscode.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vim.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/bash.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ansible.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vscode.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vim.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/bash.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ansible.png"></code>
 
 ## Recent Activity
 
