@@ -38,6 +38,7 @@ I’m looking to collaborate on every project thats need help with my current te
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vscode.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/vim.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jonatan5524/jonatan5524/main/images/ansible.png"></code>
 
 ## Recent Activity
 
