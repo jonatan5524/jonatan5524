@@ -55,4 +55,4 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatan5524" />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jonatan5524/jonatan5524/blob/main/devcard.svg" width="400" alt="Jonatan Ezron's Dev Card"/></a>
+<a href="https://app.daily.dev/jonatan5524"><img src="https://github.com/jonatan5524/jonatan5524/blob/main/devcard.svg" width="400" alt="Jonatan Ezron's Dev Card"/></a>
