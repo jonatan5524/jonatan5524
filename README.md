@@ -44,11 +44,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7080](https://github.com/gogs/gogs/pull/7080) in [gogs/gogs](https://github.com/gogs/gogs)
-2. 🗣 Commented on [#79](https://github.com/gogs/git-module/issues/79) in [gogs/git-module](https://github.com/gogs/git-module)
+1. 🗣 Commented on [#7080](https://github.com/gogs/gogs/issues/7080) in [gogs/gogs](https://github.com/gogs/gogs)
+2. 💪 Opened PR [#7080](https://github.com/gogs/gogs/pull/7080) in [gogs/gogs](https://github.com/gogs/gogs)
 3. 🗣 Commented on [#79](https://github.com/gogs/git-module/issues/79) in [gogs/git-module](https://github.com/gogs/git-module)
-4. 💪 Opened PR [#79](https://github.com/gogs/git-module/pull/79) in [gogs/git-module](https://github.com/gogs/git-module)
-5. 🗣 Commented on [#5979](https://github.com/gogs/gogs/issues/5979) in [gogs/gogs](https://github.com/gogs/gogs)
+4. 🗣 Commented on [#79](https://github.com/gogs/git-module/issues/79) in [gogs/git-module](https://github.com/gogs/git-module)
+5. 💪 Opened PR [#79](https://github.com/gogs/git-module/pull/79) in [gogs/git-module](https://github.com/gogs/git-module)
 <!--END_SECTION:activity-->
 
 ## Some Info:
