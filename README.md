@@ -44,11 +44,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
-2. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
-3. 🗣 Commented on [#52336](https://github.com/grafana/grafana/issues/52336) in [grafana/grafana](https://github.com/grafana/grafana)
-4. 🗣 Commented on [#52336](https://github.com/grafana/grafana/issues/52336) in [grafana/grafana](https://github.com/grafana/grafana)
-5. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
+1. 💪 Opened PR [#15](https://github.com/Chatnaut/Arclight/pull/15) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
+2. ❗️ Opened issue [#14](https://github.com/Chatnaut/Arclight/issues/14) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
+3. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
+4. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
+5. 🗣 Commented on [#52336](https://github.com/grafana/grafana/issues/52336) in [grafana/grafana](https://github.com/grafana/grafana)
 <!--END_SECTION:activity-->
 
 ## Some Info:
