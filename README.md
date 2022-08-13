@@ -44,10 +44,10 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#431](https://github.com/zinclabs/zinc/pull/431) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
-2. 💪 Opened PR [#15](https://github.com/Chatnaut/Arclight/pull/15) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
-3. ❗️ Opened issue [#14](https://github.com/Chatnaut/Arclight/issues/14) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
-4. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
+1. 💪 Opened PR [#432](https://github.com/zinclabs/zinc/pull/432) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+2. 💪 Opened PR [#431](https://github.com/zinclabs/zinc/pull/431) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+3. 💪 Opened PR [#15](https://github.com/Chatnaut/Arclight/pull/15) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
+4. ❗️ Opened issue [#14](https://github.com/Chatnaut/Arclight/issues/14) in [Chatnaut/Arclight](https://github.com/Chatnaut/Arclight)
 5. 🗣 Commented on [#5926](https://github.com/gogs/gogs/issues/5926) in [gogs/gogs](https://github.com/gogs/gogs)
 <!--END_SECTION:activity-->
 
