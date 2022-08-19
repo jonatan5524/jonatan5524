@@ -44,11 +44,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#434](https://github.com/zinclabs/zinc/issues/434) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
-2. ❗️ Opened issue [#434](https://github.com/zinclabs/zinc/issues/434) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
-3. 🗣 Commented on [#432](https://github.com/zinclabs/zinc/issues/432) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
-4. 💪 Opened PR [#433](https://github.com/zinclabs/zinc/pull/433) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
-5. 💪 Opened PR [#432](https://github.com/zinclabs/zinc/pull/432) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+1. 💪 Opened PR [#445](https://github.com/zinclabs/zinc/pull/445) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+2. 🗣 Commented on [#434](https://github.com/zinclabs/zinc/issues/434) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+3. ❗️ Opened issue [#434](https://github.com/zinclabs/zinc/issues/434) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+4. 🗣 Commented on [#432](https://github.com/zinclabs/zinc/issues/432) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
+5. 💪 Opened PR [#433](https://github.com/zinclabs/zinc/pull/433) in [zinclabs/zinc](https://github.com/zinclabs/zinc)
 <!--END_SECTION:activity-->
 
 ## Some Info:
