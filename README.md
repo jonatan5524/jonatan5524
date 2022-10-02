@@ -44,11 +44,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#548](https://github.com/TheAlgorithms/Go/issues/548) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 💪 Opened PR [#24](https://github.com/TheAlgorithms/TypeScript/pull/24) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-3. 💪 Opened PR [#23](https://github.com/TheAlgorithms/TypeScript/pull/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-4. 💪 Opened PR [#1225](https://github.com/woodpecker-ci/woodpecker/pull/1225) in [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-5. 🗣 Commented on [#306](https://github.com/agola-io/agola/issues/306) in [agola-io/agola](https://github.com/agola-io/agola)
+1. 🗣 Commented on [#23](https://github.com/TheAlgorithms/TypeScript/issues/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+2. ❗️ Opened issue [#548](https://github.com/TheAlgorithms/Go/issues/548) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 💪 Opened PR [#24](https://github.com/TheAlgorithms/TypeScript/pull/24) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+4. 💪 Opened PR [#23](https://github.com/TheAlgorithms/TypeScript/pull/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+5. 💪 Opened PR [#1225](https://github.com/woodpecker-ci/woodpecker/pull/1225) in [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
 <!--END_SECTION:activity-->
 
 ## Some Info:
