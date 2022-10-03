@@ -44,11 +44,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27](https://github.com/TheAlgorithms/TypeScript/pull/27) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-2. 🗣 Commented on [#23](https://github.com/TheAlgorithms/TypeScript/issues/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+1. 💪 Opened PR [#28](https://github.com/TheAlgorithms/TypeScript/pull/28) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+2. 💪 Opened PR [#27](https://github.com/TheAlgorithms/TypeScript/pull/27) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
 3. 🗣 Commented on [#23](https://github.com/TheAlgorithms/TypeScript/issues/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-4. ❗️ Opened issue [#548](https://github.com/TheAlgorithms/Go/issues/548) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 💪 Opened PR [#24](https://github.com/TheAlgorithms/TypeScript/pull/24) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+4. 🗣 Commented on [#23](https://github.com/TheAlgorithms/TypeScript/issues/23) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+5. ❗️ Opened issue [#548](https://github.com/TheAlgorithms/Go/issues/548) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 
 ## Some Info:
