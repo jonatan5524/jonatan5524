@@ -1,9 +1,13 @@
 ### 👋 Hi there I'm Yehonatan
 
-<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 I am a full stack developer, perefer backend over frontend.  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) is Love  
 Like to build things from scratch to learn how they work.
+
+Starting to write some articles in <a href="https://dev.to/jonatan5524"><img height="40" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/></a>
+
+currently written a series [build my own kubernetes](https://dev.to/jonatan5524/series/20062)
 
 I'm currently learning to work on open source.
 I’m looking to collaborate on every project thats need help with my current tech stack.
