@@ -50,9 +50,9 @@ I’m looking to collaborate on every project thats need help with my current te
 
 1. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
 2. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-3. 🎉 Merged PR [#5](https://github.com/jonatan5524/jonatan5524/pull/5) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
-4. 💪 Opened PR [#5521](https://github.com/caddyserver/caddy/pull/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-5. 🗣 Commented on [#3517](https://github.com/caddyserver/caddy/issues/3517) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+3. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+4. 🎉 Merged PR [#5](https://github.com/jonatan5524/jonatan5524/pull/5) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+5. 💪 Opened PR [#5521](https://github.com/caddyserver/caddy/pull/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
 <!--END_SECTION:activity-->
 
 ## Some Info:
