@@ -48,11 +48,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-2. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-3. 🗣 Commented on [#5521](https://github.com/caddyserver/caddy/issues/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-4. 🎉 Merged PR [#5](https://github.com/jonatan5524/jonatan5524/pull/5) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
-5. 💪 Opened PR [#5521](https://github.com/caddyserver/caddy/pull/5521) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+1. 🎉 Merged PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+2. 💪 Opened PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+3. 🎉 Merged PR [#2](https://github.com/jonatan5524/leviticus/pull/2) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+4. 💪 Opened PR [#2](https://github.com/jonatan5524/leviticus/pull/2) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+5. 🎉 Merged PR [#1](https://github.com/jonatan5524/leviticus/pull/1) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
 <!--END_SECTION:activity-->
 
 ## Some Info:
