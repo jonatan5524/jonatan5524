@@ -48,11 +48,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7873](https://github.com/lensapp/lens/pull/7873) in [lensapp/lens](https://github.com/lensapp/lens)
-2. 🎉 Merged PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
-3. 💪 Opened PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
-4. 🎉 Merged PR [#2](https://github.com/jonatan5524/leviticus/pull/2) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
-5. 💪 Opened PR [#2](https://github.com/jonatan5524/leviticus/pull/2) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+1. 🗣 Commented on [#9558](https://github.com/rancher/dashboard/issues/9558#issuecomment-1684533087) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 💪 Opened PR [#7873](https://github.com/lensapp/lens/pull/7873) in [lensapp/lens](https://github.com/lensapp/lens)
+3. 🎉 Merged PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+4. 💪 Opened PR [#3](https://github.com/jonatan5524/leviticus/pull/3) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
+5. 🎉 Merged PR [#2](https://github.com/jonatan5524/leviticus/pull/2) in [jonatan5524/leviticus](https://github.com/jonatan5524/leviticus)
 <!--END_SECTION:activity-->
 
 ## Some Info:
