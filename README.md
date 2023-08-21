@@ -48,11 +48,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
-2. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1684922264) in [rancher/dashboard](https://github.com/rancher/dashboard)
-3. 💪 Opened PR [#9570](https://github.com/rancher/dashboard/pull/9570) in [rancher/dashboard](https://github.com/rancher/dashboard)
-4. 🗣 Commented on [#9558](https://github.com/rancher/dashboard/issues/9558#issuecomment-1684533087) in [rancher/dashboard](https://github.com/rancher/dashboard)
-5. 💪 Opened PR [#7873](https://github.com/lensapp/lens/pull/7873) in [lensapp/lens](https://github.com/lensapp/lens)
+1. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685989549) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
+3. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1684922264) in [rancher/dashboard](https://github.com/rancher/dashboard)
+4. 💪 Opened PR [#9570](https://github.com/rancher/dashboard/pull/9570) in [rancher/dashboard](https://github.com/rancher/dashboard)
+5. 🗣 Commented on [#9558](https://github.com/rancher/dashboard/issues/9558#issuecomment-1684533087) in [rancher/dashboard](https://github.com/rancher/dashboard)
 <!--END_SECTION:activity-->
 
 ## Some Info:
