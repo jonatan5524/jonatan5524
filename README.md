@@ -48,11 +48,11 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9570](https://github.com/rancher/dashboard/pull/9570#issuecomment-1697807439) in [rancher/dashboard](https://github.com/rancher/dashboard)
-2. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685989549) in [rancher/dashboard](https://github.com/rancher/dashboard)
-3. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
-4. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1684922264) in [rancher/dashboard](https://github.com/rancher/dashboard)
-5. 💪 Opened PR [#9570](https://github.com/rancher/dashboard/pull/9570) in [rancher/dashboard](https://github.com/rancher/dashboard)
+1. 🗣 Commented on [#9570](https://github.com/rancher/dashboard/pull/9570#issuecomment-1697836759) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 🗣 Commented on [#9570](https://github.com/rancher/dashboard/pull/9570#issuecomment-1697807439) in [rancher/dashboard](https://github.com/rancher/dashboard)
+3. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685989549) in [rancher/dashboard](https://github.com/rancher/dashboard)
+4. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
+5. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1684922264) in [rancher/dashboard](https://github.com/rancher/dashboard)
 <!--END_SECTION:activity-->
 
 ## Some Info:
