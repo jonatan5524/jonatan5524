@@ -48,7 +48,7 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/jonatan5524/jonatan5524/pull/6) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+1. 🎉 Merged PR [#8](https://github.com/jonatan5524/jonatan5524/pull/8) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
 2. 🗣 Commented on [#9570](https://github.com/rancher/dashboard/pull/9570#issuecomment-1697836759) in [rancher/dashboard](https://github.com/rancher/dashboard)
 3. 🗣 Commented on [#9570](https://github.com/rancher/dashboard/pull/9570#issuecomment-1697807439) in [rancher/dashboard](https://github.com/rancher/dashboard)
 4. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685989549) in [rancher/dashboard](https://github.com/rancher/dashboard)
