@@ -48,9 +48,9 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#362](https://github.com/livebud/bud/issues/362#issuecomment-2069157550) in [livebud/bud](https://github.com/livebud/bud)
-2. 🎉 Merged PR [#10](https://github.com/jonatan5524/jonatan5524/pull/10) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
-3. 🎉 Merged PR [#8](https://github.com/jonatan5524/jonatan5524/pull/8) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+1. 🗣 Commented on [#9704](https://github.com/rancher/dashboard/issues/9704#issuecomment-2118744970) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 🗣 Commented on [#362](https://github.com/livebud/bud/issues/362#issuecomment-2069157550) in [livebud/bud](https://github.com/livebud/bud)
+3. 🎉 Merged PR [#10](https://github.com/jonatan5524/jonatan5524/pull/10) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
 4. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685989549) in [rancher/dashboard](https://github.com/rancher/dashboard)
 5. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
 <!--END_SECTION:activity-->
