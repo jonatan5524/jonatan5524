@@ -48,10 +48,10 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180518347) in [rancher/dashboard](https://github.com/rancher/dashboard)
-2. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180316827) in [rancher/dashboard](https://github.com/rancher/dashboard)
-3. 🗣 Commented on [#9704](https://github.com/rancher/dashboard/issues/9704#issuecomment-2118744970) in [rancher/dashboard](https://github.com/rancher/dashboard)
-4. 🗣 Commented on [#362](https://github.com/livebud/bud/issues/362#issuecomment-2069157550) in [livebud/bud](https://github.com/livebud/bud)
+1. ❌ Closed PR [#133](https://github.com/manrajgrover/algorithms-js/pull/133) in [manrajgrover/algorithms-js](https://github.com/manrajgrover/algorithms-js)
+2. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180518347) in [rancher/dashboard](https://github.com/rancher/dashboard)
+3. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180316827) in [rancher/dashboard](https://github.com/rancher/dashboard)
+4. 🗣 Commented on [#9704](https://github.com/rancher/dashboard/issues/9704#issuecomment-2118744970) in [rancher/dashboard](https://github.com/rancher/dashboard)
 5. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
 <!--END_SECTION:activity-->
 
