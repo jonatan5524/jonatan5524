@@ -8,7 +8,8 @@ Like to build things from scratch to learn how they work.
 Starting to write some articles in <a href="https://dev.to/jonatan5524"><img height="40" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/></a>
 
 currently written a series [build my own kubernetes](https://dev.to/jonatan5524/series/20062)
-refactor the above code and articles [build my own kubernetes](https://medium.com/@jonatan5524/a-journey-of-writing-my-own-kubernetes-ef45839a769d)
+
+efactor the above code and articles [build my own kubernetes](https://medium.com/@jonatan5524/a-journey-of-writing-my-own-kubernetes-ef45839a769d)
 
 I'm currently learning to work on open source.
 I’m looking to collaborate on every project thats need help with my current tech stack.
