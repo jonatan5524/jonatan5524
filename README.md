@@ -48,10 +48,10 @@ I’m looking to collaborate on every project thats need help with my current te
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#157](https://github.com/kubeedge/examples/pull/157) in [kubeedge/examples](https://github.com/kubeedge/examples)
-2. ❌ Closed PR [#133](https://github.com/manrajgrover/algorithms-js/pull/133) in [manrajgrover/algorithms-js](https://github.com/manrajgrover/algorithms-js)
-3. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180518347) in [rancher/dashboard](https://github.com/rancher/dashboard)
-4. 🗣 Commented on [#8770](https://github.com/rancher/dashboard/issues/8770#issuecomment-2180316827) in [rancher/dashboard](https://github.com/rancher/dashboard)
+1. 🎉 Merged PR [#2](https://github.com/jonatan5524/own-kubernetes/pull/2) in [jonatan5524/own-kubernetes](https://github.com/jonatan5524/own-kubernetes)
+2. 💪 Opened PR [#2](https://github.com/jonatan5524/own-kubernetes/pull/2) in [jonatan5524/own-kubernetes](https://github.com/jonatan5524/own-kubernetes)
+3. 🎉 Merged PR [#1](https://github.com/jonatan5524/own-kubernetes/pull/1) in [jonatan5524/own-kubernetes](https://github.com/jonatan5524/own-kubernetes)
+4. 💪 Opened PR [#1](https://github.com/jonatan5524/own-kubernetes/pull/1) in [jonatan5524/own-kubernetes](https://github.com/jonatan5524/own-kubernetes)
 5. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
 <!--END_SECTION:activity-->
 
