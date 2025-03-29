@@ -1,18 +1,12 @@
 ### 👋 Hi there I'm Yehonatan
 
-<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-I am a full stack developer, perefer backend over frontend.  
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) is Love  
-Like to build things from scratch to learn how they work.
+I am a full stack developer (perefer backend over frontend), devops engineer.    
 
-Starting to write some articles in <a href="https://dev.to/jonatan5524"><img height="40" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/></a>
+<a href="https://www.linkedin.com/in/jonatan-ezron-40055b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-currently written a series [build my own kubernetes](https://dev.to/jonatan5524/series/20062)
+Written some articles in <a href="https://medium.com/@jonatan5524/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> and in <a href="https://dev.to/jonatan5524"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
 
-refactor the above code and articles [build my own kubernetes](https://medium.com/@jonatan5524/a-journey-of-writing-my-own-kubernetes-ef45839a769d)
-
-I'm currently learning to work on open source.
-I’m looking to collaborate on every project thats need help with my current tech stack.
+I’m looking to collaborate on every open source project that needs help with my current tech stack.
 
 ## Tech stack
 
