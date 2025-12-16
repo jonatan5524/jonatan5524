@@ -44,8 +44,8 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#14](https://github.com/jonatan5524/jonatan5524/issues/14) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
-2. ❗ Opened issue [#13](https://github.com/jonatan5524/jonatan5524/issues/13) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
+1. ❌ Merged PR [#1](undefined) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+2. 💪 Opened PR [#1](undefined) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
 3. ❗ Opened issue [#12](https://github.com/jonatan5524/jonatan5524/issues/12) in [jonatan5524/jonatan5524](https://github.com/jonatan5524/jonatan5524)
 4. 💪 Opened PR [#1](https://github.com/jonatan5524/own-kubernetes/pull/1) in [jonatan5524/own-kubernetes](https://github.com/jonatan5524/own-kubernetes)
 5. 🗣 Commented on [#9379](https://github.com/rancher/dashboard/issues/9379#issuecomment-1685380752) in [rancher/dashboard](https://github.com/rancher/dashboard)
