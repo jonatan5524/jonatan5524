@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/tanamiyuval/fsd-course-assignment2/pull/3) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
-2. 🎉 Merged PR [#1](https://github.com/tanamiyuval/fsd-course-assignment2/pull/1) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
-3. 💪 Opened PR [#1](https://github.com/tanamiyuval/fsd-course-assignment2/pull/1) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
-4. ❌ Closed PR [#9](https://github.com/jonatan5524/fsd-course-assignment1/pull/9) in [jonatan5524/fsd-course-assignment1](https://github.com/jonatan5524/fsd-course-assignment1)
-5. 💪 Opened PR [#9](https://github.com/jonatan5524/fsd-course-assignment1/pull/9) in [jonatan5524/fsd-course-assignment1](https://github.com/jonatan5524/fsd-course-assignment1)
+1. 💪 Opened PR [#4](https://github.com/tanamiyuval/fsd-course-assignment2/pull/4) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
+2. 🎉 Merged PR [#3](https://github.com/tanamiyuval/fsd-course-assignment2/pull/3) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
+3. 💪 Opened PR [#3](https://github.com/tanamiyuval/fsd-course-assignment2/pull/3) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
+4. 🎉 Merged PR [#1](https://github.com/tanamiyuval/fsd-course-assignment2/pull/1) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
+5. 💪 Opened PR [#1](https://github.com/tanamiyuval/fsd-course-assignment2/pull/1) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
 <!--END_SECTION:activity-->
 
 ## Some Info:
