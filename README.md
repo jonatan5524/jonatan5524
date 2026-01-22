@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/jonatan5524/StudentsAppAssignment/pull/1) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
-2. 🎉 Merged PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
-3. 💪 Opened PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
-4. 🎉 Merged PR [#4](https://github.com/tanamiyuval/fsd-course-assignment2/pull/4) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
-5. 💪 Opened PR [#4](https://github.com/tanamiyuval/fsd-course-assignment2/pull/4) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
+1. 🎉 Merged PR [#1](https://github.com/jonatan5524/StudentsAppAssignment/pull/1) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
+2. 💪 Opened PR [#1](https://github.com/jonatan5524/StudentsAppAssignment/pull/1) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
+3. 🎉 Merged PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
+4. 💪 Opened PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
+5. 🎉 Merged PR [#4](https://github.com/tanamiyuval/fsd-course-assignment2/pull/4) in [tanamiyuval/fsd-course-assignment2](https://github.com/tanamiyuval/fsd-course-assignment2)
 <!--END_SECTION:activity-->
 
 ## Some Info:
