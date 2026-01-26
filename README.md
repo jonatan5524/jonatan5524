@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/jonatan5524/StudentsAppAssignment/pull/2) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
-2. 🎉 Merged PR [#1](https://github.com/jonatan5524/StudentsAppAssignment/pull/1) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
-3. 💪 Opened PR [#1](https://github.com/jonatan5524/StudentsAppAssignment/pull/1) in [jonatan5524/StudentsAppAssignment](https://github.com/jonatan5524/StudentsAppAssignment)
-4. 🎉 Merged PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
-5. 💪 Opened PR [#1](https://github.com/jonatan5524/tic-tac-toe-assignment/pull/1) in [jonatan5524/tic-tac-toe-assignment](https://github.com/jonatan5524/tic-tac-toe-assignment)
+1. ❗ Opened issue [#21](https://github.com/jonatan5524/JamOn/issues/21) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. ❗ Opened issue [#20](https://github.com/jonatan5524/JamOn/issues/20) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. ❗ Opened issue [#19](https://github.com/jonatan5524/JamOn/issues/19) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ❗ Opened issue [#18](https://github.com/jonatan5524/JamOn/issues/18) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. ❗ Opened issue [#17](https://github.com/jonatan5524/JamOn/issues/17) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
 
 ## Some Info:
