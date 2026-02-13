@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/jonatan5524/aws-rss-tldr/pull/2) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
-2. 💪 Opened PR [#2](https://github.com/jonatan5524/aws-rss-tldr/pull/2) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
-3. ❗ Opened issue [#21](https://github.com/jonatan5524/JamOn/issues/21) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ❗ Opened issue [#20](https://github.com/jonatan5524/JamOn/issues/20) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. ❗ Opened issue [#19](https://github.com/jonatan5524/JamOn/issues/19) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🎉 Merged PR [#3](https://github.com/jonatan5524/aws-rss-tldr/pull/3) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+2. 💪 Opened PR [#3](https://github.com/jonatan5524/aws-rss-tldr/pull/3) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+3. 🎉 Merged PR [#2](https://github.com/jonatan5524/aws-rss-tldr/pull/2) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+4. 💪 Opened PR [#2](https://github.com/jonatan5524/aws-rss-tldr/pull/2) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+5. ❗ Opened issue [#21](https://github.com/jonatan5524/JamOn/issues/21) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
 
 ## Some Info:
