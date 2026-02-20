@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/2) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
-2. 💪 Opened PR [#2](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/2) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
-3. 🎉 Merged PR [#1](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/1) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
-4. 💪 Opened PR [#1](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/1) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
-5. 🎉 Merged PR [#6](https://github.com/jonatan5524/aws-rss-tldr/pull/6) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+1. 🎉 Merged PR [#7](https://github.com/jonatan5524/aws-rss-tldr/pull/7) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+2. 💪 Opened PR [#7](https://github.com/jonatan5524/aws-rss-tldr/pull/7) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+3. 🎉 Merged PR [#2](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/2) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
+4. 💪 Opened PR [#2](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/2) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
+5. 🎉 Merged PR [#1](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/1) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
 <!--END_SECTION:activity-->
 
 ## Some Info:
