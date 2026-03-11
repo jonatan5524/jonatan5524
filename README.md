@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/jonatan5524/colman-android-final-assigment/pull/4) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-2. 🎉 Merged PR [#1](https://github.com/jonatan5524/colman-android-final-assigment/pull/1) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-3. 💪 Opened PR [#1](https://github.com/jonatan5524/colman-android-final-assigment/pull/1) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-4. 🎉 Merged PR [#8](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/8) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
-5. 💪 Opened PR [#8](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/8) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
+1. 🎉 Merged PR [#4](https://github.com/jonatan5524/colman-android-final-assigment/pull/4) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+2. 💪 Opened PR [#4](https://github.com/jonatan5524/colman-android-final-assigment/pull/4) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+3. 🎉 Merged PR [#1](https://github.com/jonatan5524/colman-android-final-assigment/pull/1) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+4. 💪 Opened PR [#1](https://github.com/jonatan5524/colman-android-final-assigment/pull/1) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+5. 🎉 Merged PR [#8](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/8) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
 <!--END_SECTION:activity-->
 
 ## Some Info:
