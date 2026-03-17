@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/jonatan5524/colman-android-final-assigment/pull/11) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-2. 🎉 Merged PR [#8](https://github.com/jonatan5524/colman-android-final-assigment/pull/8) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-3. 💪 Opened PR [#8](https://github.com/jonatan5524/colman-android-final-assigment/pull/8) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-4. 🎉 Merged PR [#7](https://github.com/jonatan5524/colman-android-final-assigment/pull/7) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-5. 🎉 Merged PR [#9](https://github.com/jonatan5524/colman-fsd-final-assignment/pull/9) in [jonatan5524/colman-fsd-final-assignment](https://github.com/jonatan5524/colman-fsd-final-assignment)
+1. 🎉 Merged PR [#11](https://github.com/jonatan5524/colman-android-final-assigment/pull/11) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+2. 💪 Opened PR [#11](https://github.com/jonatan5524/colman-android-final-assigment/pull/11) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+3. 🎉 Merged PR [#8](https://github.com/jonatan5524/colman-android-final-assigment/pull/8) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+4. 💪 Opened PR [#8](https://github.com/jonatan5524/colman-android-final-assigment/pull/8) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+5. 🎉 Merged PR [#7](https://github.com/jonatan5524/colman-android-final-assigment/pull/7) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
 <!--END_SECTION:activity-->
 
 ## Some Info:
