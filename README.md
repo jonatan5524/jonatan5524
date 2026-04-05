@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/jonatan5524/colman-android-final-assigment/pull/13) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-2. 💪 Opened PR [#13](https://github.com/jonatan5524/colman-android-final-assigment/pull/13) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-3. 🎉 Merged PR [#11](https://github.com/jonatan5524/colman-android-final-assigment/pull/11) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-4. 💪 Opened PR [#11](https://github.com/jonatan5524/colman-android-final-assigment/pull/11) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
-5. 🎉 Merged PR [#8](https://github.com/jonatan5524/colman-android-final-assigment/pull/8) in [jonatan5524/colman-android-final-assigment](https://github.com/jonatan5524/colman-android-final-assigment)
+1. ℹ️ Assigned issue [#27](https://github.com/jonatan5524/JamOn/issues/27) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 🗣 Commented on [#3](https://github.com/jonatan5524/JamOn/issues/3#issuecomment-4189239556) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 🗣 Commented on [#4](https://github.com/jonatan5524/JamOn/issues/4#issuecomment-4189237839) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ℹ️ Assigned issue [#25](https://github.com/jonatan5524/JamOn/issues/25) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🗣 Commented on [#27](https://github.com/jonatan5524/JamOn/issues/27#issuecomment-4189234171) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
 
 ## Some Info:
