@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#27](https://github.com/jonatan5524/JamOn/issues/27) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 🗣 Commented on [#3](https://github.com/jonatan5524/JamOn/issues/3#issuecomment-4189239556) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 🗣 Commented on [#4](https://github.com/jonatan5524/JamOn/issues/4#issuecomment-4189237839) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ℹ️ Assigned issue [#25](https://github.com/jonatan5524/JamOn/issues/25) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. 🗣 Commented on [#27](https://github.com/jonatan5524/JamOn/issues/27#issuecomment-4189234171) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🎉 Merged PR [#28](https://github.com/jonatan5524/JamOn/pull/28) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 💪 Opened PR [#28](https://github.com/jonatan5524/JamOn/pull/28) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. ℹ️ Assigned issue [#27](https://github.com/jonatan5524/JamOn/issues/27) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. 🗣 Commented on [#3](https://github.com/jonatan5524/JamOn/issues/3#issuecomment-4189239556) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🗣 Commented on [#4](https://github.com/jonatan5524/JamOn/issues/4#issuecomment-4189237839) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
 
 ## Some Info:
