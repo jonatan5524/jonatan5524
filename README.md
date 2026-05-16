@@ -44,11 +44,11 @@ I’m looking to collaborate on every open source project that needs help with m
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. ❗ Opened issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. ℹ️ Assigned issue [#33](https://github.com/jonatan5524/JamOn/issues/33) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ℹ️ Assigned issue [#16](https://github.com/jonatan5524/JamOn/issues/16) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. ℹ️ Assigned issue [#11](https://github.com/jonatan5524/JamOn/issues/11) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🔓 Reopened issue [#10](https://github.com/jonatan5524/JamOn/issues/10) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 🔒 Closed issue [#10](https://github.com/jonatan5524/JamOn/issues/10) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 🗣 Commented on [#10](https://github.com/jonatan5524/JamOn/issues/10#issuecomment-4466579266) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ℹ️ Assigned issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. ❗ Opened issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
 
 ## Some Info:
