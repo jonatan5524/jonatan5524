@@ -12,7 +12,3 @@ Written some articles in <a href="https://medium.com/@jonatan5524/"><img src="ht
 4. ℹ️ Assigned issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 5. ❗ Opened issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
-
-## Some Info:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatan5524" />
