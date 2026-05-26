@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#10](https://github.com/jonatan5524/JamOn/issues/10) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 🔒 Closed issue [#10](https://github.com/jonatan5524/JamOn/issues/10) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 🗣 Commented on [#10](https://github.com/jonatan5524/JamOn/issues/10#issuecomment-4466579266) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ℹ️ Assigned issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. ❗ Opened issue [#34](https://github.com/jonatan5524/JamOn/issues/34) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. ℹ️ Assigned issue [#20](https://github.com/jonatan5524/JamOn/issues/20) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. ℹ️ Assigned issue [#13](https://github.com/jonatan5524/JamOn/issues/13) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 🔒 Closed issue [#33](https://github.com/jonatan5524/JamOn/issues/33) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. 🔒 Closed issue [#16](https://github.com/jonatan5524/JamOn/issues/16) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🔒 Closed issue [#11](https://github.com/jonatan5524/JamOn/issues/11) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
