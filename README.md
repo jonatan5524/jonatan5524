@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#14](https://github.com/jonatan5524/JamOn/issues/14) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 🔒 Closed issue [#12](https://github.com/jonatan5524/JamOn/issues/12) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 💪 Opened PR [#41](https://github.com/jonatan5524/JamOn/pull/41) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. 🔒 Closed issue [#15](https://github.com/jonatan5524/JamOn/issues/15) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. 🎉 Merged PR [#38](https://github.com/jonatan5524/JamOn/pull/38) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🔒 Closed issue [#20](https://github.com/jonatan5524/JamOn/issues/20) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 🔒 Closed issue [#14](https://github.com/jonatan5524/JamOn/issues/14) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 🔒 Closed issue [#12](https://github.com/jonatan5524/JamOn/issues/12) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. 💪 Opened PR [#41](https://github.com/jonatan5524/JamOn/pull/41) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🔒 Closed issue [#15](https://github.com/jonatan5524/JamOn/issues/15) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
