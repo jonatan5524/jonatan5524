@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#46](https://github.com/jonatan5524/JamOn/issues/46) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. ℹ️ Assigned issue [#45](https://github.com/jonatan5524/JamOn/issues/45) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. ℹ️ Assigned issue [#17](https://github.com/jonatan5524/JamOn/issues/17) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ℹ️ Assigned issue [#18](https://github.com/jonatan5524/JamOn/issues/18) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. ❗ Opened issue [#46](https://github.com/jonatan5524/JamOn/issues/46) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🎉 Merged PR [#41](https://github.com/jonatan5524/JamOn/pull/41) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. ℹ️ Assigned issue [#46](https://github.com/jonatan5524/JamOn/issues/46) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. ℹ️ Assigned issue [#45](https://github.com/jonatan5524/JamOn/issues/45) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ℹ️ Assigned issue [#17](https://github.com/jonatan5524/JamOn/issues/17) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. ℹ️ Assigned issue [#18](https://github.com/jonatan5524/JamOn/issues/18) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
