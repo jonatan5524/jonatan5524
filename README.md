@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#49](https://github.com/jonatan5524/JamOn/pull/49#issuecomment-4674601892) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 💪 Opened PR [#49](https://github.com/jonatan5524/JamOn/pull/49) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 🎉 Merged PR [#47](https://github.com/jonatan5524/JamOn/pull/47) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. 💪 Opened PR [#47](https://github.com/jonatan5524/JamOn/pull/47) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. 🎉 Merged PR [#8](https://github.com/jonatan5524/aws-rss-tldr/pull/8) in [jonatan5524/aws-rss-tldr](https://github.com/jonatan5524/aws-rss-tldr)
+1. 🎉 Merged PR [#49](https://github.com/jonatan5524/JamOn/pull/49) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 🗣 Commented on [#49](https://github.com/jonatan5524/JamOn/pull/49#issuecomment-4674601892) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 💪 Opened PR [#49](https://github.com/jonatan5524/JamOn/pull/49) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. 🎉 Merged PR [#47](https://github.com/jonatan5524/JamOn/pull/47) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 💪 Opened PR [#47](https://github.com/jonatan5524/JamOn/pull/47) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
