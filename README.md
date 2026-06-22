@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#60](https://github.com/jonatan5524/JamOn/issues/60) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 🔒 Closed issue [#44](https://github.com/jonatan5524/JamOn/issues/44) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 🔒 Closed issue [#45](https://github.com/jonatan5524/JamOn/issues/45) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. 🎉 Merged PR [#10](https://github.com/jonatan5524/terraform-aws-landing-zone/pull/10) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
-5. 🔒 Closed issue [#6](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/6) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
+1. 🔒 Closed issue [#2](https://github.com/jonatan5524/JamOn/issues/2) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 🔒 Closed issue [#3](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/3) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
+3. 🔒 Closed issue [#2](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/2) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
+4. 🔒 Closed issue [#19](https://github.com/jonatan5524/JamOn/issues/19) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🔒 Closed issue [#1](https://github.com/jonatan5524/JamOn/issues/1) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
