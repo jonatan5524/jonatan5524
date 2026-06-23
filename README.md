@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#61](https://github.com/jonatan5524/JamOn/issues/61) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. ℹ️ Assigned issue [#59](https://github.com/jonatan5524/JamOn/issues/59) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. ℹ️ Assigned issue [#57](https://github.com/jonatan5524/JamOn/issues/57) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. 🔒 Closed issue [#2](https://github.com/jonatan5524/JamOn/issues/2) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. 🔒 Closed issue [#3](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/3) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
+1. ℹ️ Labeled issue [#1](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/1) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
+2. ℹ️ Assigned issue [#61](https://github.com/jonatan5524/JamOn/issues/61) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. ℹ️ Assigned issue [#59](https://github.com/jonatan5524/JamOn/issues/59) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ℹ️ Assigned issue [#57](https://github.com/jonatan5524/JamOn/issues/57) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🔒 Closed issue [#2](https://github.com/jonatan5524/JamOn/issues/2) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
