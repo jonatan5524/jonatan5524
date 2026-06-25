@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#65](https://github.com/jonatan5524/JamOn/pull/65) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. ℹ️ Labeled issue [#1](https://github.com/jonatan5524/terraform-aws-landing-zone/issues/1) in [jonatan5524/terraform-aws-landing-zone](https://github.com/jonatan5524/terraform-aws-landing-zone)
-3. ℹ️ Assigned issue [#61](https://github.com/jonatan5524/JamOn/issues/61) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. ℹ️ Assigned issue [#59](https://github.com/jonatan5524/JamOn/issues/59) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. ℹ️ Assigned issue [#57](https://github.com/jonatan5524/JamOn/issues/57) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. ℹ️ Labeled issue [#87](https://github.com/jonatan5524/JamOn/issues/87) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. ℹ️ Labeled issue [#88](https://github.com/jonatan5524/JamOn/issues/88) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. ℹ️ Labeled issue [#85](https://github.com/jonatan5524/JamOn/issues/85) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. ℹ️ Labeled issue [#84](https://github.com/jonatan5524/JamOn/issues/84) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. ℹ️ Labeled issue [#83](https://github.com/jonatan5524/JamOn/issues/83) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
