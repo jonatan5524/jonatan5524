@@ -4,9 +4,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#99](https://github.com/jonatan5524/JamOn/pull/99) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-2. 💪 Opened PR [#99](https://github.com/jonatan5524/JamOn/pull/99) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-3. 🎉 Merged PR [#98](https://github.com/jonatan5524/JamOn/pull/98) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-4. 💪 Opened PR [#98](https://github.com/jonatan5524/JamOn/pull/98) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
-5. 🎉 Merged PR [#97](https://github.com/jonatan5524/JamOn/pull/97) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+1. 🎉 Merged PR [#100](https://github.com/jonatan5524/JamOn/pull/100) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+2. 💪 Opened PR [#100](https://github.com/jonatan5524/JamOn/pull/100) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+3. 🎉 Merged PR [#99](https://github.com/jonatan5524/JamOn/pull/99) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+4. 💪 Opened PR [#99](https://github.com/jonatan5524/JamOn/pull/99) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
+5. 🎉 Merged PR [#98](https://github.com/jonatan5524/JamOn/pull/98) in [jonatan5524/JamOn](https://github.com/jonatan5524/JamOn)
 <!--END_SECTION:activity-->
